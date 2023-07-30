@@ -51,4 +51,7 @@
 .card4{
   grid-area: card4;
 }
+.attribution{
+  margin-top: 3rem;
+}
 }
