@@ -2,13 +2,11 @@
   header{
     margin-top:1rem;
   }
-  header .head-title {
-    font-weight: 200;
-  }
+
   header .title-msg{
     width: 40%;
     margin: 0 auto;
-    font-size: 10px;
+    font-size: 12px;
   }
 
 .cards{
@@ -32,8 +30,9 @@
   font-size: 1rem;
 }
 .cards .card>p {
-  font-size: .8rem;
+  /* font-size: .8rem; */
   width: 80%;
+  font-weight: 200;
 }
 .card .img {
   margin: 0;

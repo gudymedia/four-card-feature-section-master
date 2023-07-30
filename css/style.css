@@ -49,6 +49,7 @@ footer {
 /* Header */
 header .head-title {
   font-size: 20px;
+  font-weight: 200;
 }
 
 header b {
@@ -59,6 +60,7 @@ header .title-msg {
   margin-top: 1rem;
   font-size: 15px;
   padding: 0 10px;
+  font-weight: 200;
 }
 
 /* Cards */
